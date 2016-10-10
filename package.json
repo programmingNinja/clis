@@ -7,7 +7,13 @@
     "dev": "run-p watch:test watch:lint",
     "lint": "eslint ./",
     "watch:test": "nodemon --exec \"npm test || true\"",
-    "watch:lint": "nodemon --exec \"npm run lint || true\""
+    "watch:lint": "nodemon --exec \"npm run lint || true\"",
+    "cli:echo":"node echo.js",
+    "cli:touch":"node touch.js",
+    "cli:ls":"node ls.js",
+    "cli:mkdir":"node mkdir.js",
+    "cli:cat":"node cat.js",
+    "cli:rm":"node rm.js"
   },
   "repository": {
     "type": "git",
