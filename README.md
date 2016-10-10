@@ -26,5 +26,5 @@ Time spent: `3.25 hrs`
 
 ## Walkthrough Gif:
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
+
 ![Video Walkthrough](assignment1.gif)
